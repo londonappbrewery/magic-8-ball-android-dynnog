@@ -56,13 +56,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:background="@android:color/holo_blue_light"
+            android:background="@color/colorPrimary"
             android:paddingLeft="20px"
             android:paddingTop="20px"
             android:paddingRight="20px"
             android:paddingBottom="20px"
             android:text="@string/ask_button"
             android:textColor="@android:color/white"
+            android:textSize="20sp"
             android:textStyle="bold" />
     </RelativeLayout>
 </LinearLayout>
